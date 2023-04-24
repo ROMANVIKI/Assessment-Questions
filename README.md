@@ -1,1 +1,1 @@
-# Python-assessment-qns
+# Assessment questions
